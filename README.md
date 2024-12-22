@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kim Duyên</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duyenqa&label=Profile%20views&color=0e75b6&style=flat" alt="duyenqa" /> </p>
 
-- 🌱 I’m currently learning **Software testing, Automation testing, Java, Python, JavaScript, Kotlin**
+- 🌱 I’m currently learning **Software testing, Automation testing(Selenium, Appium, TestNG), Java, Python, JavaScript, Kotlin**
 
 - 📫 How to reach me **ntduyen255@gmail.com**
 
