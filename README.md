@@ -4,8 +4,8 @@
 - 🌍  I'm based in Viet Nam
 - 👨‍🎓  Studied at Công Thương College (HITC HCMC)
 - 👨‍🎓  Studied at FPT Software Academy
-- 🌱 I’m currently learning **Python, JavaScript**
-- 💬 Ask me about **Java, OOP, SQL, Software testing, Automation testing(Selenium, Appium, TestNG)**
+- 🌱 I’m currently learning **Python, JavaScript, Java**
+- 💬 Ask me about **OOP, SQL, Software testing, Automation testing(Selenium, Appium, TestNG, Playwright)**
 - 📫 How to reach me **ntduyen255@gmail.com**
 
 ### Skills
